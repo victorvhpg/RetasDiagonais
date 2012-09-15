@@ -1,3 +1,8 @@
+/**
+@victorvhpg
+https://github.com/victorvhpg/RetasDiagonais/blob/master/RetasDiagonais.js
+
+*/
 var RetasDiagonais = function(opt){
     opt =  opt || {};
     this.canvas  = opt.canvas ||  (function(){
